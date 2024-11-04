@@ -1,1107 +1,1107 @@
 [
     {
-        "Ngành học": "Giáo dục Mầm non",
-        "Nghề nghiệp": "GIÁO VIÊN",
+        "majors": "Giáo dục Mầm non",
+        "industries": "GIÁO VIÊN",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Giáo dục Tiểu học",
-        "Nghề nghiệp": "GIÁO VIÊN",
+        "majors": "Giáo dục Tiểu học",
+        "industries": "GIÁO VIÊN",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Giáo dục Đặc biệt",
-        "Nghề nghiệp": "GIÁO DỤC ĐẶC BIỆT",
+        "majors": "Giáo dục Đặc biệt",
+        "industries": "GIÁO DỤC ĐẶC BIỆT",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Giáo dục Công dân",
-        "Nghề nghiệp": "GIÁO VIÊN",
+        "majors": "Giáo dục Công dân",
+        "industries": "GIÁO VIÊN",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Giáo dục Chính trị",
-        "Nghề nghiệp": "GIÁO VIÊN",
+        "majors": "Giáo dục Chính trị",
+        "industries": "GIÁO VIÊN",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Giáo dục Thể chất",
-        "Nghề nghiệp": "GIÁO VIÊN",
+        "majors": "Giáo dục Thể chất",
+        "industries": "GIÁO VIÊN",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Huấn luyện thể thao",
-        "Nghề nghiệp": "GIÁO VIÊN",
+        "majors": "Huấn luyện thể thao",
+        "industries": "GIÁO VIÊN",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Giáo dục Quốc phòng – An ninh",
-        "Nghề nghiệp": "GIÁO VIÊN",
+        "majors": "Giáo dục Quốc phòng – An ninh",
+        "industries": "GIÁO VIÊN",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Toán học",
-        "Nghề nghiệp": "GIÁO VIÊN",
+        "majors": "Sư phạm Toán học",
+        "industries": "GIÁO VIÊN",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tin học",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tin học",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Vật lý",
-        "Nghề nghiệp": "GIÁO VIÊN",
+        "majors": "Sư phạm Vật lý",
+        "industries": "GIÁO VIÊN",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Hóa học",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Hóa học",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Sinh học",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Sinh học",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Kỹ thuật Công nghiệp",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Kỹ thuật Công nghiệp",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Kỹ thuật Nông nghiệp",
-        "Nghề nghiệp": "GIÁO VIÊN",
+        "majors": "Sư phạm Kỹ thuật Nông nghiệp",
+        "industries": "GIÁO VIÊN",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Ngữ văn",
-        "Nghề nghiệp": "GIÁO VIÊN",
+        "majors": "Sư phạm Ngữ văn",
+        "industries": "GIÁO VIÊN",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Lịch sử",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Lịch sử",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Địa lý",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Địa lý",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Âm nhạc",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Âm nhạc",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Mỹ thuật",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Mỹ thuật",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tiếng Bana",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tiếng Bana",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tiếng Êđê",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tiếng Êđê",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tiếng Jrai",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tiếng Jrai",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tiếng Khmer",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tiếng Khmer",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tiếng H’mong",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tiếng H’mong",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tiếng Chăm",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tiếng Chăm",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tiếng M’nông",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tiếng M’nông",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tiếng Xêđăng",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tiếng Xêđăng",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tiếng Anh",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tiếng Anh",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tiếng Nga",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tiếng Nga",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tiếng Pháp",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tiếng Pháp",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tiếng Trung Quốc",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tiếng Trung Quốc",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tiếng Đức",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tiếng Đức",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tiếng Nhật",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tiếng Nhật",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tiếng Hàn Quốc",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tiếng Hàn Quốc",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Nghệ thuật",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Nghệ thuật",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Công nghệ",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Công nghệ",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Khoa học tự nhiên",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Khoa học tự nhiên",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Giáo dục Pháp luật",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Giáo dục Pháp luật",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Lịch sử – Địa lý",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Lịch sử – Địa lý",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Sư phạm Tin học – Công nghệ",
-        "Nghề nghiệp": "GIÁO VIÊN ",
+        "majors": "Sư phạm Tin học – Công nghệ",
+        "industries": "GIÁO VIÊN ",
         "mbti_type": "ENFJ,ESFJ,INFJ,ISFJ"
     },
     {
-        "Ngành học": "Hội họa",
-        "Nghề nghiệp": "THIẾT KẾ ",
+        "majors": "Hội họa",
+        "industries": "THIẾT KẾ ",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Đồ họa",
-        "Nghề nghiệp": "THIẾT KẾ ",
+        "majors": "Đồ họa",
+        "industries": "THIẾT KẾ ",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Điêu khắc",
-        "Nghề nghiệp": "THIẾT KẾ ",
+        "majors": "Điêu khắc",
+        "industries": "THIẾT KẾ ",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Gốm",
-        "Nghề nghiệp": "THIẾT KẾ ",
+        "majors": "Gốm",
+        "industries": "THIẾT KẾ ",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Mỹ thuật đô thị",
-        "Nghề nghiệp": "THIẾT KẾ ",
+        "majors": "Mỹ thuật đô thị",
+        "industries": "THIẾT KẾ ",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Âm nhạc học",
-        "Nghề nghiệp": "ÂM NHẠC",
+        "majors": "Âm nhạc học",
+        "industries": "ÂM NHẠC",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Piano",
-        "Nghề nghiệp": "ÂM NHẠC",
+        "majors": "Piano",
+        "industries": "ÂM NHẠC",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Nhạc Jazz",
-        "Nghề nghiệp": "ÂM NHẠC",
+        "majors": "Nhạc Jazz",
+        "industries": "ÂM NHẠC",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Biểu diễn nhạc cụ truyền thống",
-        "Nghề nghiệp": "ÂM NHẠC",
+        "majors": "Biểu diễn nhạc cụ truyền thống",
+        "industries": "ÂM NHẠC",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Lý luận, Lịch sử và Phê bình sân khấu",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Lý luận, Lịch sử và Phê bình sân khấu",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Biên kịch sân khấu",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Biên kịch sân khấu",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Diễn viên sân khấu kịch hát",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Diễn viên sân khấu kịch hát",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Đạo diễn sân khấu",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Đạo diễn sân khấu",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Lý luận, Lịch sử và Phê bình điện ảnh, truyền hình",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Lý luận, Lịch sử và Phê bình điện ảnh, truyền hình",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Biên kịch điện ảnh, truyền hình",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Biên kịch điện ảnh, truyền hình",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Diễn viên kịch, điện ảnh – truyền hình",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Diễn viên kịch, điện ảnh – truyền hình",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Đạo diễn điện ảnh, truyền hình",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Đạo diễn điện ảnh, truyền hình",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Quay phim",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Quay phim",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Lý luận, Lịch sử và Phê bình múa",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Lý luận, Lịch sử và Phê bình múa",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Diễn viên múa",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Diễn viên múa",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Biên đạo múa",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Biên đạo múa",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Huấn luyện múa",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Huấn luyện múa",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Năng khiếu Nghe nhìn",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Năng khiếu Nghe nhìn",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Nhiếp ảnh",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Nhiếp ảnh",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Công nghệ điện ảnh, truyền hình",
-        "Nghề nghiệp": "NGHỆ THUẬT",
+        "majors": "Công nghệ điện ảnh, truyền hình",
+        "industries": "NGHỆ THUẬT",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Thiết kế âm thanh, ánh sáng",
-        "Nghề nghiệp": "THIẾT KẾ ",
+        "majors": "Thiết kế âm thanh, ánh sáng",
+        "industries": "THIẾT KẾ ",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Thiết kế công nghiệp",
-        "Nghề nghiệp": "THIẾT KẾ ",
+        "majors": "Thiết kế công nghiệp",
+        "industries": "THIẾT KẾ ",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Thiết kế đồ họa",
-        "Nghề nghiệp": "THIẾT KẾ ",
+        "majors": "Thiết kế đồ họa",
+        "industries": "THIẾT KẾ ",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Thiết kế thời trang",
-        "Nghề nghiệp": "THIẾT KẾ ",
+        "majors": "Thiết kế thời trang",
+        "industries": "THIẾT KẾ ",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Thiết kế mỹ thuật sân khấu, điện ảnh",
-        "Nghề nghiệp": "THIẾT KẾ ",
+        "majors": "Thiết kế mỹ thuật sân khấu, điện ảnh",
+        "industries": "THIẾT KẾ ",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Nghệ thuật số (Digital Art)",
-        "Nghề nghiệp": "THIẾT KẾ ",
+        "majors": "Nghệ thuật số (Digital Art)",
+        "industries": "THIẾT KẾ ",
         "mbti_type": "INFP, ISFP, ENFP, ESFP"
     },
     {
-        "Ngành học": "Tiếng Việt và Văn hóa Việt Nam",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Tiếng Việt và Văn hóa Việt Nam",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Hán Nôm",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Hán Nôm",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ Jrai",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ Jrai",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ Khmer",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ Khmer",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ H’mông",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ H’mông",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngông ngữ Chăm",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngông ngữ Chăm",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Sáng tác Văn học",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Sáng tác Văn học",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Văn hóa các dân tộc thiểu số Việt Nam",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Văn hóa các dân tộc thiểu số Việt Nam",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ, Văn học và Văn hóa nước ngoài",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ, Văn học và Văn hóa nước ngoài",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ Anh",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ Anh",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ Nga",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ Nga",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ Pháp",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ Pháp",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ Trung Quốc",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ Trung Quốc",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ Đức",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ Đức",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ Tây Ban Nha",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ Tây Ban Nha",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ Bồ Đào Nha",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ Bồ Đào Nha",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ Italia",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ Italia",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ Nhật",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ Nhật",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ Hàn Quốc",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ Hàn Quốc",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ Ảrập",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ Ảrập",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Ngôn ngữ Thái Lan",
-        "Nghề nghiệp": "ngôn ngữ",
+        "majors": "Ngôn ngữ Thái Lan",
+        "industries": "ngôn ngữ",
         "mbti_type": "ENFP,ISFP"
     },
     {
-        "Ngành học": "Báo chí",
-        "Nghề nghiệp": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO",
+        "majors": "Báo chí",
+        "industries": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO",
         "mbti_type": "INFP,ENTJ,ENTP"
     },
     {
-        "Ngành học": "Truyền thông đa phương tiện",
-        "Nghề nghiệp": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO",
+        "majors": "Truyền thông đa phương tiện",
+        "industries": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO",
         "mbti_type": "INFP,ENTJ,ENTP"
     },
     {
-        "Ngành học": "Truyền thông đại chúng",
-        "Nghề nghiệp": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO,TỔ CHỨC SỰ KIỆN ",
+        "majors": "Truyền thông đại chúng",
+        "industries": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO,TỔ CHỨC SỰ KIỆN ",
         "mbti_type": "INFP,ENTJ,ENTP,ESFP"
     },
     {
-        "Ngành học": "Công nghệ truyền thông",
-        "Nghề nghiệp": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO,TỔ CHỨC SỰ KIỆN ",
+        "majors": "Công nghệ truyền thông",
+        "industries": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO,TỔ CHỨC SỰ KIỆN ",
         "mbti_type": "INFP,ENTJ,ENTP,ESFP"
     },
     {
-        "Ngành học": "Truyền thông quốc tế",
-        "Nghề nghiệp": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO,TỔ CHỨC SỰ KIỆN ",
+        "majors": "Truyền thông quốc tế",
+        "industries": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO,TỔ CHỨC SỰ KIỆN ",
         "mbti_type": "INFP,ENTJ,ENTP,ESFP"
     },
     {
-        "Ngành học": "Quan hệ công chúng",
-        "Nghề nghiệp": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO,TỔ CHỨC SỰ KIỆN ",
+        "majors": "Quan hệ công chúng",
+        "industries": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO,TỔ CHỨC SỰ KIỆN ",
         "mbti_type": "INFP,ENFJ,ENFP,ESFP"
     },
     {
-        "Ngành học": "Truyền thông doanh nghiệp",
-        "Nghề nghiệp": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO,TỔ CHỨC SỰ KIỆN ",
+        "majors": "Truyền thông doanh nghiệp",
+        "industries": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO,TỔ CHỨC SỰ KIỆN ",
         "mbti_type": "INFP,ENTJ,ENTP,ESFP"
     },
     {
-        "Ngành học": "Quảng cáo",
-        "Nghề nghiệp": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO,TỔ CHỨC SỰ KIỆN ",
+        "majors": "Quảng cáo",
+        "industries": "TRUYỀN THÔNG QUẢNG CÁO ,KINH DOANH QUẢN CÁO,TỔ CHỨC SỰ KIỆN ",
         "mbti_type": "INFP,ENTJ,ENTP,ESFP"
     },
     {
-        "Ngành học": "Quản trị kinh doanh",
-        "Nghề nghiệp": "QUẢN TRỊ KINH DOANH,KHỞI NGHIỆP",
+        "majors": "Quản trị kinh doanh",
+        "industries": "QUẢN TRỊ KINH DOANH,KHỞI NGHIỆP",
         "mbti_type": "ENTJ, ESTJ, ISTJ, ESTP, ESFJ"
     },
     {
-        "Ngành học": "Quản trị – Luật",
-        "Nghề nghiệp": "LUẬT ",
+        "majors": "Quản trị – Luật",
+        "industries": "LUẬT ",
         "mbti_type": "INTJ, ENTJ, INFJ, ISTJ"
     },
     {
-        "Ngành học": "Digital Marketing",
-        "Nghề nghiệp": "Marketing",
+        "majors": "Digital Marketing",
+        "industries": "Marketing",
         "mbti_type": "ENTP, ENFP, ESFP, ESTP, ENFJ"
     },
     {
-        "Ngành học": "Marketing",
-        "Nghề nghiệp": "Marketing",
+        "majors": "Marketing",
+        "industries": "Marketing",
         "mbti_type": "ENTP, ENFP, ESFP, ESTP, ENFJ"
     },
     {
-        "Ngành học": "Bất động sản",
-        "Nghề nghiệp": "",
+        "majors": "Bất động sản",
+        "industries": "",
         "mbti_type": ""
     },
     {
-        "Ngành học": "Kinh doanh quốc tế",
-        "Nghề nghiệp": "QUẢN TRỊ KINH DOANH",
+        "majors": "Kinh doanh quốc tế",
+        "industries": "QUẢN TRỊ KINH DOANH",
         "mbti_type": "ENTJ, ESTJ, ISTJ, ESTP, ESFJ"
     },
     {
-        "Ngành học": "Kinh doanh thương mại",
-        "Nghề nghiệp": "QUẢN TRỊ KINH DOANH",
+        "majors": "Kinh doanh thương mại",
+        "industries": "QUẢN TRỊ KINH DOANH",
         "mbti_type": "ENTJ, ESTJ, ISTJ, ESTP, ESFJ"
     },
     {
-        "Ngành học": "Thương mại điện tử",
-        "Nghề nghiệp": "QUẢN TRỊ KINH DOANH",
+        "majors": "Thương mại điện tử",
+        "industries": "QUẢN TRỊ KINH DOANH",
         "mbti_type": "ENTJ, ESTJ, ISTJ, ESTP, ESFJ"
     },
     {
-        "Ngành học": "Kinh doanh thời trang và dệt may",
-        "Nghề nghiệp": "KHỞI NGHIỆP ,THỜI TRANG",
+        "majors": "Kinh doanh thời trang và dệt may",
+        "industries": "KHỞI NGHIỆP ,THỜI TRANG",
         "mbti_type": "ENTJ, ESTJ, ISTJ, ESTP, ESFJ"
     },
     {
-        "Ngành học": "Quản trị và kinh doanh quốc tế",
-        "Nghề nghiệp": "QUẢN TRỊ KINH DOANH",
+        "majors": "Quản trị và kinh doanh quốc tế",
+        "industries": "QUẢN TRỊ KINH DOANH",
         "mbti_type": "ENTJ, ESTJ, ISTJ, ESTP, ESFJ"
     },
     {
-        "Ngành học": "Tài chính – Ngân hàng",
-        "Nghề nghiệp": "Tài chính",
+        "majors": "Tài chính – Ngân hàng",
+        "industries": "Tài chính",
         "mbti_type": "INTJ, ENTJ, ISTJ, ESTJ"
     },
     {
-        "Ngành học": "Bảo hiểm – Tài chính",
-        "Nghề nghiệp": "Công tác xã hội",
+        "majors": "Bảo hiểm – Tài chính",
+        "industries": "Công tác xã hội",
         "mbti_type": "INFJ, INFP, ISFJ, ENFJ, ESFJ"
     },
     {
-        "Ngành học": "Bảo hiểm",
-        "Nghề nghiệp": "Công tác xã hội",
+        "majors": "Bảo hiểm",
+        "industries": "Công tác xã hội",
         "mbti_type": "INFJ, INFP, ISFJ, ENFJ, ESFJ"
     },
     {
-        "Ngành học": "Công nghệ tài chính",
-        "Nghề nghiệp": "Tài chính",
+        "majors": "Công nghệ tài chính",
+        "industries": "Tài chính",
         "mbti_type": "INTJ, ENTJ, ISTJ, ESTJ"
     },
     {
-        "Ngành học": "Tài chính quốc tế",
-        "Nghề nghiệp": "Tài chính",
+        "majors": "Tài chính quốc tế",
+        "industries": "Tài chính",
         "mbti_type": "INTJ, ENTJ, ISTJ, ESTJ"
     },
     {
-        "Ngành học": "Kế toán",
-        "Nghề nghiệp": "KẾ TOÁN KIỂM TOÁN",
+        "majors": "Kế toán",
+        "industries": "KẾ TOÁN KIỂM TOÁN",
         "mbti_type": "ISTJ, ESTJ, ISFJ"
     },
     {
-        "Ngành học": "Kiểm toán",
-        "Nghề nghiệp": "KẾ TOÁN KIỂM TOÁN",
+        "majors": "Kiểm toán",
+        "industries": "KẾ TOÁN KIỂM TOÁN",
         "mbti_type": "ISTJ, ESTJ, ISFJ"
     },
     {
-        "Ngành học": "Khoa học quản lý",
-        "Nghề nghiệp": "QUẢN LÍ -QUẢN TRỊ ",
+        "majors": "Khoa học quản lý",
+        "industries": "QUẢN LÍ -QUẢN TRỊ ",
         "mbti_type": "ENTJ, ESTJ, ISTJ, ESTP, ESFJ"
     },
     {
-        "Ngành học": "Quản lý công",
-        "Nghề nghiệp": "QUẢN LÍ-QUẢN TRỊ",
+        "majors": "Quản lý công",
+        "industries": "QUẢN LÍ-QUẢN TRỊ",
         "mbti_type": "ENTJ, ESTJ, ISTJ, ESTP, ESFJ"
     },
     {
-        "Ngành học": "Quản trị nhân lực",
-        "Nghề nghiệp": "QUẢN LÍ NHÂN SỰ ",
+        "majors": "Quản trị nhân lực",
+        "industries": "QUẢN LÍ NHÂN SỰ ",
         "mbti_type": "ENFJ, ESFJ, ISFJ, INFJ"
     },
     {
-        "Ngành học": "Hệ thống thông tin quản lý",
-        "Nghề nghiệp": "PHÂN TÍCH DỮ LIỆU",
+        "majors": "Hệ thống thông tin quản lý",
+        "industries": "PHÂN TÍCH DỮ LIỆU",
         "mbti_type": "INTJ, ISTJ, INTP, ISTP"
     },
     {
-        "Ngành học": "Quản trị văn phòng",
-        "Nghề nghiệp": "QUẢN LÍ -QUẢN TRỊ ",
+        "majors": "Quản trị văn phòng",
+        "industries": "QUẢN LÍ -QUẢN TRỊ ",
         "mbti_type": "ENTJ, ESTJ, ISTJ, ESTP, ESFJ"
     },
     {
-        "Ngành học": "Quan hệ lao động",
-        "Nghề nghiệp": "QUẢN LÍ -QUẢN TRỊ ",
+        "majors": "Quan hệ lao động",
+        "industries": "QUẢN LÍ -QUẢN TRỊ ",
         "mbti_type": "ENTJ, ESTJ, ISTJ, ESTP, ESFJ"
     },
     {
-        "Ngành học": "Quản lý dự án",
-        "Nghề nghiệp": "QUẢN LÍ -QUẢN TRỊ ",
+        "majors": "Quản lý dự án",
+        "industries": "QUẢN LÍ -QUẢN TRỊ ",
         "mbti_type": "ENTJ, ESTJ, ISTJ, ESTP, ESFJ"
     },
     {
-        "Ngành học": "Quản trị công nghệ truyền thông",
-        "Nghề nghiệp": "QUẢN LÍ -QUẢN TRỊ ",
+        "majors": "Quản trị công nghệ truyền thông",
+        "industries": "QUẢN LÍ -QUẢN TRỊ ",
         "mbti_type": "ENTJ, ESTJ, ISTJ, ESTP, ESFJ"
     },
     {
-        "Ngành học": "Quản lý và phát triển nguồn nhân lực",
-        "Nghề nghiệp": "QUẢN LÍ -QUẢN TRỊ ",
+        "majors": "Quản lý và phát triển nguồn nhân lực",
+        "industries": "QUẢN LÍ -QUẢN TRỊ ",
         "mbti_type": "ENTJ, ESTJ, ISTJ, ESTP, ESFJ"
     },
     {
-        "Ngành học": "Quản trị sự kiện",
-        "Nghề nghiệp": "QUẢN LÍ -QUẢN TRỊ ",
+        "majors": "Quản trị sự kiện",
+        "industries": "QUẢN LÍ -QUẢN TRỊ ",
         "mbti_type": "ENTJ, ESTJ, ISTJ, ESTP, ESFJ"
     },
     {
-        "Ngành học": "Kinh doanh số",
-        "Nghề nghiệp": "QUẢN LÍ - QUẢN TRỊ ",
+        "majors": "Kinh doanh số",
+        "industries": "QUẢN LÍ - QUẢN TRỊ ",
         "mbti_type": "ENTJ, ESTJ, ISTJ, ESTP, ESFJ"
     },
     {
-        "Ngành học": "Khoa học dữ liệu và phân tích kinh doanh",
-        "Nghề nghiệp": "PHÂN TÍCH DỮ LIỆU",
+        "majors": "Khoa học dữ liệu và phân tích kinh doanh",
+        "industries": "PHÂN TÍCH DỮ LIỆU",
         "mbti_type": "INTJ, ISTJ, INTP, ISTP"
     },
     {
-        "Ngành học": "Phân tích dữ liệu kinh doanh",
-        "Nghề nghiệp": "PHÂN TÍCH DỮ LIỆU",
+        "majors": "Phân tích dữ liệu kinh doanh",
+        "industries": "PHÂN TÍCH DỮ LIỆU",
         "mbti_type": "INTJ, ISTJ, INTP, ISTP"
     },
     {
-        "Ngành học": "Luật",
-        "Nghề nghiệp": "LUẬT ",
+        "majors": "Luật",
+        "industries": "LUẬT ",
         "mbti_type": "INTJ, ENTJ, INFJ, ISTJ"
     },
     {
-        "Ngành học": "Luật hiến pháp và luật hành chính",
-        "Nghề nghiệp": "LUẬT ",
+        "majors": "Luật hiến pháp và luật hành chính",
+        "industries": "LUẬT ",
         "mbti_type": "INTJ, ENTJ, INFJ, ISTJ"
     },
     {
-        "Ngành học": "Luật tố tụng và tố tụng dân sự",
-        "Nghề nghiệp": "LUẬT ",
+        "majors": "Luật tố tụng và tố tụng dân sự",
+        "industries": "LUẬT ",
         "mbti_type": "INTJ, ENTJ, INFJ, ISTJ"
     },
     {
-        "Ngành học": "Luật hình sự và tố tụng hình sự",
-        "Nghề nghiệp": "LUẬT ",
+        "majors": "Luật hình sự và tố tụng hình sự",
+        "industries": "LUẬT ",
         "mbti_type": "INTJ, ENTJ, INFJ, ISTJ"
     },
     {
-        "Ngành học": "Luật kinh tế",
-        "Nghề nghiệp": "LUẬT ",
+        "majors": "Luật kinh tế",
+        "industries": "LUẬT ",
         "mbti_type": "INTJ, ENTJ, INFJ, ISTJ"
     },
     {
-        "Ngành học": "Luật quốc tế",
-        "Nghề nghiệp": "LUẬT ",
+        "majors": "Luật quốc tế",
+        "industries": "LUẬT ",
         "mbti_type": "INTJ, ENTJ, INFJ, ISTJ"
     },
     {
-        "Ngành học": "Luật thương mại quốc tế",
-        "Nghề nghiệp": "LUẬT ",
+        "majors": "Luật thương mại quốc tế",
+        "industries": "LUẬT ",
         "mbti_type": "INTJ, ENTJ, INFJ, ISTJ"
     },
     {
-        "Ngành học": "Luật kinh doanh",
-        "Nghề nghiệp": "LUẬT ",
+        "majors": "Luật kinh doanh",
+        "industries": "LUẬT ",
         "mbti_type": "INTJ, ENTJ, INFJ, ISTJ"
     },
     {
-        "Ngành học": "Sinh học",
-        "Nghề nghiệp": "SINH HỌC",
+        "majors": "Sinh học",
+        "industries": "SINH HỌC",
         "mbti_type": "INTJ, ENTJ, ISTJ, ISTP, ENTP"
     },
     {
-        "Ngành học": "Công nghệ Sinh học",
-        "Nghề nghiệp": "SINH HỌC",
+        "majors": "Công nghệ Sinh học",
+        "industries": "SINH HỌC",
         "mbti_type": "INTJ, ENTJ, ISTJ, ISTP, ENTP"
     },
     {
-        "Ngành học": "Kỹ thuật Sinh học",
-        "Nghề nghiệp": "SINH HỌC",
+        "majors": "Kỹ thuật Sinh học",
+        "industries": "SINH HỌC",
         "mbti_type": "INTJ, ENTJ, ISTJ, ISTP, ENTP"
     },
     {
-        "Ngành học": "Sinh học ứng dụng",
-        "Nghề nghiệp": "SINH HỌC ",
+        "majors": "Sinh học ứng dụng",
+        "industries": "SINH HỌC ",
         "mbti_type": "INTJ, ENTJ, ISTJ, ISTP, ENTP"
     },
     {
-        "Ngành học": "Khoa học Y sinh",
-        "Nghề nghiệp": "SINH HỌC",
+        "majors": "Khoa học Y sinh",
+        "industries": "SINH HỌC",
         "mbti_type": "INTJ, ENTJ, ISTJ, ISTP, ENTP"
     },
     {
-        "Ngành học": "Công nghệ Sinh học Y dược",
-        "Nghề nghiệp": "SINH HỌC",
+        "majors": "Công nghệ Sinh học Y dược",
+        "industries": "SINH HỌC",
         "mbti_type": "INTJ, ENTJ, ISTJ, ISTP, ENTP"
     },
     {
-        "Ngành học": "Quản trị Công nghệ Sinh học",
-        "Nghề nghiệp": "SINH HỌC",
+        "majors": "Quản trị Công nghệ Sinh học",
+        "industries": "SINH HỌC",
         "mbti_type": "INTJ, INFJ, INTP, ENTP"
     },
     {
-        "Ngành học": "Thiên văn học",
-        "Nghề nghiệp": "Thiên văn học",
+        "majors": "Thiên văn học",
+        "industries": "Thiên văn học",
         "mbti_type": "INTJ, ISTJ, INTP, ENTP"
     },
     {
-        "Ngành học": "Vật lý học",
-        "Nghề nghiệp": "Vật lý học",
+        "majors": "Vật lý học",
+        "industries": "Vật lý học",
         "mbti_type": "INTJ, ISTJ, INTP"
     },
     {
-        "Ngành học": "Vật lý nguyên tử hạt nhân",
-        "Nghề nghiệp": "Vật lý nguyên tử hạt nhân",
+        "majors": "Vật lý nguyên tử hạt nhân",
+        "industries": "Vật lý nguyên tử hạt nhân",
         "mbti_type": "INTJ, ISTJ, INTP, ISTP"
     },
     {
-        "Ngành học": "Hóa học",
-        "Nghề nghiệp": "Hóa học",
+        "majors": "Hóa học",
+        "industries": "Hóa học",
         "mbti_type": "INFJ, INTJ, ISFJ, INTP"
     },
     {
-        "Ngành học": "Khoa học vật liệu",
-        "Nghề nghiệp": "Khoa học vật liệu",
+        "majors": "Khoa học vật liệu",
+        "industries": "Khoa học vật liệu",
         "mbti_type": "INFJ, INTJ, ISFJ, INTP"
     },
     {
-        "Ngành học": "Khoa học trái đất",
-        "Nghề nghiệp": "Khoa học trái đất",
+        "majors": "Khoa học trái đất",
+        "industries": "Khoa học trái đất",
         "mbti_type": "ISTJ, INTJ, ISFJ, INFP"
     },
     {
-        "Ngành học": "Địa chất học",
-        "Nghề nghiệp": "Địa chất học",
+        "majors": "Địa chất học",
+        "industries": "Địa chất học",
         "mbti_type": "INFJ, ISFJ, INTP, INFP"
     },
     {
-        "Ngành học": "Khoa học môi trường",
-        "Nghề nghiệp": "KHOA HỌC MÔI TRƯỜNG",
+        "majors": "Khoa học môi trường",
+        "industries": "KHOA HỌC MÔI TRƯỜNG",
         "mbti_type": ""
     },
     {
-        "Ngành học": "Toán học",
-        "Nghề nghiệp": "Toán học",
+        "majors": "Toán học",
+        "industries": "Toán học",
         "mbti_type": "INTJ, INTP, ISTJ, ISTP"
     },
     {
-        "Ngành học": "Khoa học tính toán",
-        "Nghề nghiệp": "Khoa học tính toán",
+        "majors": "Khoa học tính toán",
+        "industries": "Khoa học tính toán",
         "mbti_type": "INTJ, ISTJ, ENTJ, ISTP"
     },
     {
-        "Ngành học": "Toán ứng dụng",
-        "Nghề nghiệp": "Toán ứng dụng",
+        "majors": "Toán ứng dụng",
+        "industries": "Toán ứng dụng",
         "mbti_type": "INTJ, ISTJ, ENTJ, ISTP"
     },
     {
-        "Ngành học": "Toán tin",
-        "Nghề nghiệp": "Toán tin",
+        "majors": "Toán tin",
+        "industries": "Toán tin",
         "mbti_type": "INTJ, ISTJ, INTP, ISTP"
     },
     {
-        "Ngành học": "Thống kê",
-        "Nghề nghiệp": "Thống kê",
+        "majors": "Thống kê",
+        "industries": "Thống kê",
         "mbti_type": "INTJ, ISTJ, INTP, ISTP"
     },
     {
-        "Ngành học": "Khoa học máy tính",
-        "Nghề nghiệp": "Khoa học máy tính",
+        "majors": "Khoa học máy tính",
+        "industries": "Khoa học máy tính",
         "mbti_type": "INTJ, INTP, ISTJ, ISTP"
     },
     {
-        "Ngành học": "Mạng máy tính và Truyền thông dữ liệu",
-        "Nghề nghiệp": "Mạng máy tính và Truyền thông dữ liệu",
+        "majors": "Mạng máy tính và Truyền thông dữ liệu",
+        "industries": "Mạng máy tính và Truyền thông dữ liệu",
         "mbti_type": "ISTJ, ESTJ, ISTP"
     },
     {
-        "Ngành học": "Kỹ thuật phần mềm",
-        "Nghề nghiệp": "Kỹ thuật phần mềm",
+        "majors": "Kỹ thuật phần mềm",
+        "industries": "Kỹ thuật phần mềm",
         "mbti_type": "INTJ, ISTJ, ISTP, ENTP"
     },
     {
-        "Ngành học": "Hệ thống thông tin",
-        "Nghề nghiệp": "Hệ thống thông tin",
+        "majors": "Hệ thống thông tin",
+        "industries": "Hệ thống thông tin",
         "mbti_type": "ISTJ, INTJ, ENTJ, ISTP"
     },
     {
-        "Ngành học": "Kỹ thuật máy tính",
-        "Nghề nghiệp": "Kỹ thuật máy tính",
+        "majors": "Kỹ thuật máy tính",
+        "industries": "Kỹ thuật máy tính",
         "mbti_type": "ISTJ, INTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": "Trí tuệ nhân tạo",
-        "Nghề nghiệp": "Trí tuệ nhân tạo",
+        "majors": "Trí tuệ nhân tạo",
+        "industries": "Trí tuệ nhân tạo",
         "mbti_type": "INTJ, INTP, ENTJ"
     },
     {
-        "Ngành học": "Khoa học dữ liệu và Trí tuệ nhân tạo",
-        "Nghề nghiệp": "Khoa học dữ liệu và Trí tuệ nhân tạo",
+        "majors": "Khoa học dữ liệu và Trí tuệ nhân tạo",
+        "industries": "Khoa học dữ liệu và Trí tuệ nhân tạo",
         "mbti_type": "INTJ, ISTJ, ENTJ, INTP"
     },
     {
-        "Ngành học": "Công nghệ thông tin",
-        "Nghề nghiệp": "Công nghệ thông tin",
+        "majors": "Công nghệ thông tin",
+        "industries": "Công nghệ thông tin",
         "mbti_type": "INTJ, ENTJ, INTP, ISTP"
     },
     {
-        "Ngành học": "An toàn thông tin",
-        "Nghề nghiệp": "An toàn thông tin",
+        "majors": "An toàn thông tin",
+        "industries": "An toàn thông tin",
         "mbti_type": "ISTJ, INTJ, ISTP, ESTJ"
     },
     {
-        "Ngành học": "Công nghệ đa phương tiện",
-        "Nghề nghiệp": "Công nghệ đa phương tiện",
+        "majors": "Công nghệ đa phương tiện",
+        "industries": "Công nghệ đa phương tiện",
         "mbti_type": "INFP, ISFP, ENFP, ENTP"
     },
     {
-        "Ngành học": "Công nghệ Kỹ thuật Kiến trúc",
-        "Nghề nghiệp": "kiến trúc",
+        "majors": "Công nghệ Kỹ thuật Kiến trúc",
+        "industries": "kiến trúc",
         "mbti_type": "INFJ, INFP, INTJ, ISFP, ENTP"
     },
     {
-        "Ngành học": "Công nghệ Kỹ thuật Công trình xây dựng",
-        "Nghề nghiệp": "xây dựng",
+        "majors": "Công nghệ Kỹ thuật Công trình xây dựng",
+        "industries": "xây dựng",
         "mbti_type": "ISTJ, INTJ, ENTJ, ISTP"
     },
     {
-        "Ngành học": "Công nghệ Kỹ thuật Giao thông",
-        "Nghề nghiệp": "xây dựng",
+        "majors": "Công nghệ Kỹ thuật Giao thông",
+        "industries": "xây dựng",
         "mbti_type": "ISTJ, INTJ, ENTJ, ISTP"
     },
     {
-        "Ngành học": "Công nghệ Kỹ thuật Vật liệu xây dựng",
-        "Nghề nghiệp": "xây dựng",
+        "majors": "Công nghệ Kỹ thuật Vật liệu xây dựng",
+        "industries": "xây dựng",
         "mbti_type": "ISTJ, INTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": "Hệ thống Kỹ thuật Công trình xây dựng",
-        "Nghề nghiệp": "xây dựng",
+        "majors": "Hệ thống Kỹ thuật Công trình xây dựng",
+        "industries": "xây dựng",
         "mbti_type": "INFJ, INFP, INTJ, ISFP, ENTP"
     },
     {
-        "Ngành học": "Công nghệ Kỹ thuật Cơ khí",
-        "Nghề nghiệp": "kĩ thuật",
+        "majors": "Công nghệ Kỹ thuật Cơ khí",
+        "industries": "kĩ thuật",
         "mbti_type": "INTJ, INTP, ISTJ, ESTJ, ISTP"
     },
     {
-        "Ngành học": "Công nghệ Chế tạo máy",
-        "Nghề nghiệp": "kĩ thuật",
+        "majors": "Công nghệ Chế tạo máy",
+        "industries": "kĩ thuật",
         "mbti_type": "INTJ, INTP, ISTJ, ESTJ, ISTP"
     },
     {
-        "Ngành học": "Công nghệ Kỹ thuật Cơ điện tử",
-        "Nghề nghiệp": "kĩ thuật",
+        "majors": "Công nghệ Kỹ thuật Cơ điện tử",
+        "industries": "kĩ thuật",
         "mbti_type": "INTJ, INTP, ISTJ, ESTJ, ISTP"
     },
     {
-        "Ngành học": "Công nghệ Kỹ thuật Ô tô",
-        "Nghề nghiệp": "kĩ thuật",
+        "majors": "Công nghệ Kỹ thuật Ô tô",
+        "industries": "kĩ thuật",
         "mbti_type": "INTJ, INTP, ISTJ, ESTJ, ISTP"
     },
     {
-        "Ngành học": "Công nghệ Kỹ thuật Nhiệt",
-        "Nghề nghiệp": "kĩ thuật",
+        "majors": "Công nghệ Kỹ thuật Nhiệt",
+        "industries": "kĩ thuật",
         "mbti_type": "INTJ, INTP, ISTJ, ESTJ, ISTP"
     },
     {
-        "Ngành học": "Công nghệ Kỹ thuật Tàu thủy",
-        "Nghề nghiệp": "kĩ thuật",
+        "majors": "Công nghệ Kỹ thuật Tàu thủy",
+        "industries": "kĩ thuật",
         "mbti_type": "INTJ, INTP, ISTJ, ESTJ, ISTP"
     },
     {
-        "Ngành học": "Năng lượng tái tạo",
-        "Nghề nghiệp": "kĩ thuật",
+        "majors": "Năng lượng tái tạo",
+        "industries": "kĩ thuật",
         "mbti_type": "INTJ, INTP, ISTJ, ESTJ, ISTP"
     },
     {
-        "Ngành học": "Robot và Trí tuệ nhân tạo",
-        "Nghề nghiệp": "kĩ thuật",
+        "majors": "Robot và Trí tuệ nhân tạo",
+        "industries": "kĩ thuật",
         "mbti_type": "INTJ, INTP, ISTJ, ESTJ, ISTP"
     },
     {
-        "Ngành học": "Điện lạnh và Điều hòa không khí",
-        "Nghề nghiệp": "kĩ thuật",
+        "majors": "Điện lạnh và Điều hòa không khí",
+        "industries": "kĩ thuật",
         "mbti_type": "INTJ, INTP, ISTJ, ESTJ, ISTP"
     },
     {
-        "Ngành học": "Bảo dưỡng Công nghiệp",
-        "Nghề nghiệp": "kĩ thuật",
+        "majors": "Bảo dưỡng Công nghiệp",
+        "industries": "kĩ thuật",
         "mbti_type": "INTJ, INTP, ISTJ, ESTJ, ISTP"
     },
     {
-        "Ngành học": "Công nghệ Ô tô",
-        "Nghề nghiệp": "kĩ thuật",
+        "majors": "Công nghệ Ô tô",
+        "industries": "kĩ thuật",
         "mbti_type": "INTJ, INTP, ISTJ, ESTJ, ISTP"
     },
     {
-        "Ngành học": "Công nghệ Kỹ thuật điện, điện tử",
-        "Nghề nghiệp": "công nghệ kỹ thuật điện tử- viện thông",
+        "majors": "Công nghệ Kỹ thuật điện, điện tử",
+        "industries": "công nghệ kỹ thuật điện tử- viện thông",
         "mbti_type": "ISTJ, INTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": " Kỹ thuật điện tử – viễn thông",
-        "Nghề nghiệp": "công nghệ kỹ thuật điện tử- viện thông",
+        "majors": " Kỹ thuật điện tử – viễn thông",
+        "industries": "công nghệ kỹ thuật điện tử- viện thông",
         "mbti_type": "ISTJ, INTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": " Kỹ thuật điều khiển và tự động hóa",
-        "Nghề nghiệp": "công nghệ kỹ thuật điện tử- viện thông",
+        "majors": " Kỹ thuật điều khiển và tự động hóa",
+        "industries": "công nghệ kỹ thuật điện tử- viện thông",
         "mbti_type": "ISTJ, INTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": "IoT và Trí tuệ nhân tạo ứng dụng",
-        "Nghề nghiệp": "công nghệ kỹ thuật điện tử- viện thông",
+        "majors": "IoT và Trí tuệ nhân tạo ứng dụng",
+        "industries": "công nghệ kỹ thuật điện tử- viện thông",
         "mbti_type": "INTJ, ISTJ, ENTJ, ISTP"
     },
     {
-        "Ngành học": "Logistics và Quản lý chuỗi cung ứng",
-        "Nghề nghiệp": "quản lỹ chuỗi cung ứng",
+        "majors": "Logistics và Quản lý chuỗi cung ứng",
+        "industries": "quản lỹ chuỗi cung ứng",
         "mbti_type": "ISTJ, ESTJ, ENTJ"
     },
     {
-        "Ngành học": "Cơ kỹ thuật",
-        "Nghề nghiệp": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
+        "majors": "Cơ kỹ thuật",
+        "industries": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
         "mbti_type": "INTJ, ISTJ, ENTJ, ISTP"
     },
     {
-        "Ngành học": "Kỹ thuật Cơ khí",
-        "Nghề nghiệp": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
+        "majors": "Kỹ thuật Cơ khí",
+        "industries": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
         "mbti_type": "ISTJ, ESTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": "Kỹ thuật Cơ điện tử",
-        "Nghề nghiệp": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
+        "majors": "Kỹ thuật Cơ điện tử",
+        "industries": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
         "mbti_type": "ISTJ, ESTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": "Kỹ thuật Nhiệt",
-        "Nghề nghiệp": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
+        "majors": "Kỹ thuật Nhiệt",
+        "industries": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
         "mbti_type": "ISTJ, ESTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": "Kỹ thuật Cơ khí động lực",
-        "Nghề nghiệp": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
+        "majors": "Kỹ thuật Cơ khí động lực",
+        "industries": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
         "mbti_type": "ISTJ, ESTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": "Kỹ thuật Công nghiệp",
-        "Nghề nghiệp": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
+        "majors": "Kỹ thuật Công nghiệp",
+        "industries": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
         "mbti_type": "ISTJ, ESTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": "Kỹ thuật Hệ thống công nghiệp",
-        "Nghề nghiệp": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
+        "majors": "Kỹ thuật Hệ thống công nghiệp",
+        "industries": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
         "mbti_type": "ISTJ, ESTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": "Cơ điện tử",
-        "Nghề nghiệp": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
+        "majors": "Cơ điện tử",
+        "industries": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
         "mbti_type": "ISTJ, ESTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": "Kỹ thuật Hàng không",
-        "Nghề nghiệp": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
+        "majors": "Kỹ thuật Hàng không",
+        "industries": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
         "mbti_type": "ISTJ, ESTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": "Kỹ thuật Không gian",
-        "Nghề nghiệp": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
+        "majors": "Kỹ thuật Không gian",
+        "industries": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
         "mbti_type": "ISTJ, ESTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": "Kỹ thuật tàu thủy",
-        "Nghề nghiệp": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
+        "majors": "Kỹ thuật tàu thủy",
+        "industries": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
         "mbti_type": "ISTJ, ESTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": "Kỹ thuật ô tô",
-        "Nghề nghiệp": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
+        "majors": "Kỹ thuật ô tô",
+        "industries": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
         "mbti_type": "ISTJ, ESTJ, ISTP, ENTJ"
     },
     {
-        "Ngành học": "Kỹ thuật in",
-        "Nghề nghiệp": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
+        "majors": "Kỹ thuật in",
+        "industries": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
         "mbti_type": "ISTJ, ISTP, ESTJ, ENTJ"
     },
     {
-        "Ngành học": "Kỹ thuật hàng hải",
-        "Nghề nghiệp": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
+        "majors": "Kỹ thuật hàng hải",
+        "industries": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
         "mbti_type": "ISTJ, ISTP, ESTJ, ENTJ"
     },
     {
-        "Ngành học": "Công nghệ Ô tô điện",
-        "Nghề nghiệp": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
+        "majors": "Công nghệ Ô tô điện",
+        "industries": "nhóm kỹ thuật cơ khí và cơ kỹ thuật",
         "mbti_type": "ISTJ, ISTP, ESTJ, ENTJ"
     },
     {
-        "Ngành học": "Y khoa",
-        "Nghề nghiệp": "y học ",
+        "majors": "Y khoa",
+        "industries": "y học ",
         "mbti_type": "ISFJ, INFJ, ENFJ, INTJ"
     },
     {
-        "Ngành học": "Y học dự phòng",
-        "Nghề nghiệp": "y học ",
+        "majors": "Y học dự phòng",
+        "industries": "y học ",
         "mbti_type": "ISFJ, INFJ, ENFJ, INTJ"
     },
     {
-        "Ngành học": "Y học cổ truyền",
-        "Nghề nghiệp": "y học ",
+        "majors": "Y học cổ truyền",
+        "industries": "y học ",
         "mbti_type": "ISFJ, INFJ, ENFJ, INTJ"
     },
     {
-        "Ngành học": "Dược học",
-        "Nghề nghiệp": "dược học",
+        "majors": "Dược học",
+        "industries": "dược học",
         "mbti_type": "ISTJ, ISFJ, INTJ, INFJ"
     },
     {
-        "Ngành học": "Hóa dược",
-        "Nghề nghiệp": "dược học",
+        "majors": "Hóa dược",
+        "industries": "dược học",
         "mbti_type": "ISTJ, ISFJ, INTJ, INFJ"
     },
     {
-        "Ngành học": "Điều dưỡng",
-        "Nghề nghiệp": "điều dưỡng",
+        "majors": "Điều dưỡng",
+        "industries": "điều dưỡng",
         "mbti_type": "ISFJ, ESFJ, ENFJ, ISFP"
     },
     {
-        "Ngành học": "Hộ sinh",
-        "Nghề nghiệp": "điều dưỡng",
+        "majors": "Hộ sinh",
+        "industries": "điều dưỡng",
         "mbti_type": "ISFJ, ESFJ, ENFJ, ISFP"
     },
     {
-        "Ngành học": "Dinh dưỡng",
-        "Nghề nghiệp": "dinh dưỡng",
+        "majors": "Dinh dưỡng",
+        "industries": "dinh dưỡng",
         "mbti_type": "ISFJ, ESFJ, ENFJ, ISFP"
     },
     {
-        "Ngành học": "Răng – Hàm – Mặt",
-        "Nghề nghiệp": "răng hàm mặt",
+        "majors": "Răng – Hàm – Mặt",
+        "industries": "răng hàm mặt",
         "mbti_type": "ISFJ, ISTJ, INFJ, INTJ"
     },
     {
-        "Ngành học": "Kỹ thuật phục hình răng",
-        "Nghề nghiệp": "răng hàm mặt",
+        "majors": "Kỹ thuật phục hình răng",
+        "industries": "răng hàm mặt",
         "mbti_type": "ISFJ, ISTJ, INFJ, INTJ"
     },
     {
-        "Ngành học": "Kỹ thuật Xét nghiệm Y học",
-        "Nghề nghiệp": "Kỹ thuật Y học",
+        "majors": "Kỹ thuật Xét nghiệm Y học",
+        "industries": "Kỹ thuật Y học",
         "mbti_type": "ISTJ, ISFJ, INTJ, ISTP"
     },
     {
-        "Ngành học": "Kỹ thuật Hình ảnh Y học",
-        "Nghề nghiệp": "Kỹ thuật Y học",
+        "majors": "Kỹ thuật Hình ảnh Y học",
+        "industries": "Kỹ thuật Y học",
         "mbti_type": "ISTJ, ISFJ, INTJ, ISTP"
     },
     {
-        "Ngành học": "Kỹ thuật Phục hồi chức năng",
-        "Nghề nghiệp": "Kỹ thuật Y học",
+        "majors": "Kỹ thuật Phục hồi chức năng",
+        "industries": "Kỹ thuật Y học",
         "mbti_type": "ISTJ, ISFJ, INTJ, ISTP"
     },
     {
-        "Ngành học": "Khúc xạ nhãn khoa",
-        "Nghề nghiệp": "Kỹ thuật Y học",
+        "majors": "Khúc xạ nhãn khoa",
+        "industries": "Kỹ thuật Y học",
         "mbti_type": "ISTJ, ISFJ, INTJ, ISTP"
     },
     {
-        "Ngành học": "quân đội ",
-        "Nghề nghiệp": "quân đội ",
+        "majors": "quân đội ",
+        "industries": "quân đội ",
         "mbti_type": "ESTJ, ENTJ, ENFJ, ISTJ"
     },
     {
-        "Ngành học": "nghiệp vụ an ninh",
-        "Nghề nghiệp": "công an",
+        "majors": "nghiệp vụ an ninh",
+        "industries": "công an",
         "mbti_type": "INTJ, ISTJ, ENTJ, ISTP"
     }
 ]

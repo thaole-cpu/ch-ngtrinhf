@@ -1,15 +1,14 @@
 import json
 
-# Đọc dữ liệu nghề nghiệp và trường học từ file JSON
-with open("D:\\nhom1\mbti\data1.json", "r", encoding="utf-8") as f:
-    job_data = json.load(f)
+# Đọc dữ liệu từ file JSON
+def load_data(filename):
+    with open(filename, 'r', encoding='utf-8') as file:
+        return json.load(file)
 
-with open("D:\\nhom1\mbti\data2.json", "r", encoding="utf-8") as f:
-    school_data = json.load(f)
-
-# Hàm thực hiện bài test MBTI
+# Bài kiểm tra MBTI
 def mbti_test():
-    questions = [(1, "Tại một buổi tiệc, bạn sẽ:", "a. Giao tiếp với nhiều người, kể cả người lạ", "b. Chỉ giao tiếp với một số ít người mà bạn đã quen", "E", "I"),
+    questions = [
+        (1, "Tại một buổi tiệc, bạn sẽ:", "a. Giao tiếp với nhiều người, kể cả người lạ", "b. Chỉ giao tiếp với một số ít người mà bạn đã quen", "E", "I"),
         (2, "Bạn thấy mình là người nghiêng về kiểu nào nhiều hơn?", "a. Thực tế", "b. Sáng tạo", "S", "N"),
         (3, "Bạn nghĩ tình huống nào tồi tệ hơn?", "a. Đầu óc của bạn cứ 'bay bổng trên mây'", "b. Cuộc sống của bạn thật nhàm chán và không bao giờ thay đổi", "N", "S"),
         (4, "Bạn sẽ bị ấn tượng hơn với:", "a. Các nguyên tắc", "b. Những cảm xúc", "T", "F"),
@@ -79,103 +78,66 @@ def mbti_test():
         (68, "Điều gì sẽ là lỗi lớn hơn?", "a. Hành động bừa bãi, không cân nhắc", "b. Chỉ trích, phê phán", "T", "F"),
         (69, "Bạn thích sự kiện nào hơn?", "a. Có kế hoạch trước", "b. Không có kế hoạch trước", "J", "P"),
         (70, "Bạn thường có hành động:", "a. Cân nhắc thận trọng", "b. Tự nhiên, tự phát", "J", "P")
-    
-        
     ]
-
-    scores = {
-        "E": 0, "I": 0, "S": 0, "N": 0,
-        "T": 0, "F": 0, "J": 0, "P": 0
-    }
-
-    for idx, (question, opt1, opt2) in enumerate(questions, start=1):
-        print(f"Câu {idx}: {question}")
-        print(opt1)
-        print(opt2)
-        answer = input("Chọn đáp án (a/b): ").strip().lower()
-        
-        if answer == 'a':
-            if "(I)" in opt1: scores["I"] += 1
-            elif "(S)" in opt1: scores["S"] += 1
-            elif "(T)" in opt1: scores["T"] += 1
-            elif "(J)" in opt1: scores["J"] += 1
-        elif answer == 'b':
-            if "(E)" in opt2: scores["E"] += 1
-            elif "(N)" in opt2: scores["N"] += 1
-            elif "(F)" in opt2: scores["F"] += 1
-            elif "(P)" in opt2: scores["P"] += 1
-
+    scores = {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}
+    
+    for question, opt1, opt2 in questions:
+        print(question)
+        print(f"a) {opt1}")
+        print(f"b) {opt2}")
+        answer = input("Chọn câu trả lời (a/b): ")
+        if answer.lower() == 'a':
+            scores[opt1] += 1
+        elif answer.lower() == 'b':
+            scores[opt2] += 1
+            
     # Xác định loại MBTI từ điểm số
     mbti_type = (
-        "E" if scores["E"] > scores["I"] else "I" +
-        "S" if scores["S"] > scores["N"] else "N" +
-        "T" if scores["T"] > scores["F"] else "F" +
-        "J" if scores["J"] > scores["P"] else "P"
+        ("E" if scores["E"] > scores["I"] else "I") +
+        ("S" if scores["S"] > scores["N"] else "N") +
+        ("T" if scores["T"] > scores["F"] else "F") +
+        ("J" if scores["J"] > scores["P"] else "P")
     )
-
     return mbti_type
 
-# Hàm tìm nghề nghiệp phù hợp theo loại MBTI
-def find_job_by_mbti(mbti_type):
-    jobs = []
-    for job in job_data:
-        if mbti_type in job["mbti_type"]:
-            jobs.append(job["industries"])
-    return jobs
+# Gợi ý nghề nghiệp và ngành học
+def suggest_career_and_major(mbti_type, career_data):
+    return career_data.get(mbti_type, None)
 
-# Hàm tìm trường học phù hợp dựa trên học phí và khu vực
-def find_school(max_tuition, region):
-    suitable_schools = []
-    for school in school_data:
-        tuition = school["tuition"].replace(" ", "").replace(">", "").replace("<", "").replace("-", "").split("đến")
-        min_tuition = int(tuition[0])
-        max_tuition_in_data = int(tuition[1]) if len(tuition) > 1 else min_tuition
-        
-        if min_tuition <= max_tuition and school["region"].lower() == region.lower():
-            suitable_schools.append(school["name"])
-    return suitable_schools
+# Gợi ý trường học
+def suggest_universities(major, max_tuition, region, university_data):
+    matches = []
+    for uni_name, uni_info in university_data.items():
+        if (region and uni_info["region"] != region) or (max_tuition and uni_info["tuition"] > max_tuition):
+            continue
+        if major in uni_info["majors"]:
+            matches.append(uni_name)
+    return matches
 
-# Hàm định hướng nghề nghiệp
-def career_guidance():
-    name = input("Nhập tên của bạn: ")
-    age = input("Nhập tuổi của bạn: ")
-    max_tuition = int(input("Nhập giới hạn học phí (số cụ thể, ví dụ: 20000000): "))
-    region = input("Khu vực mong muốn (Bắc, Trung, Nam): ")
-    
-    # Lấy loại MBTI từ bài kiểm tra
+# Hàm chính
+def career_guidance(max_tuition=None, region=None):
+    career_data = load_data("D:\\nhom1\mbti\data1.json")
+    university_data = load_data("D:\\nhom1\mbti\data2.json")
     mbti_type = mbti_test()
-    print(f"\nKết quả MBTI của bạn là: {mbti_type}")
-    
-    # Tìm nghề nghiệp phù hợp
-    jobs = find_job_by_mbti(mbti_type)
-    if not jobs:
-        print("Không tìm thấy ngành nghề phù hợp với loại MBTI của bạn.")
-    else:
-        print("Ngành nghề phù hợp với bạn:")
-        for job in jobs:
-            print(f"- {job}")
+    print(f"Loại tính cách của bạn là: {mbti_type}")
 
-    # Tìm trường học phù hợp
-    schools = find_school(max_tuition, region)
-    if not schools:
-        print("Không tìm thấy trường đại học phù hợp với yêu cầu của bạn.")
-    else:
-        print("\nCác trường đại học phù hợp với bạn:")
-        for school in schools:
-            print(f"- {school}")
+    # Gợi ý nghề nghiệp và ngành học
+    career_suggestions = suggest_career_and_major(mbti_type, career_data)
+    if not career_suggestions:
+        print("Không tìm thấy gợi ý nghề nghiệp cho loại tính cách của bạn.")
+        return
 
-    # Lưu kết quả vào file
-    user_data = {
-        "name": name,
-        "age": age,
-        "mbti_type": mbti_type,
-        "jobs": jobs,
-        "schools": schools
-    }
+    print(f"Gợi ý nghề nghiệp cho {mbti_type}:")
+    for career, majors in career_suggestions["industries"].items():
+        print(f"industries- : {career} (majord: {', '.join(majors)})")
+        for major in majors:
+            suitable_universities = suggest_universities(major, max_tuition, region, university_data)
+            if suitable_universities:
+                print(f"  Trường phù hợp cho ngành {major}: {', '.join(suitable_universities)}")
+            else:
+                print(f"  Không tìm thấy trường phù hợp cho ngành {major}.")
 
-    with open("D:\\nhom1\mbti\\test_results.json", "a", encoding="utf-8") as f:
-        json.dump(user_data, f, ensure_ascii=False, indent=4)
-        f.write(",\n")
-
-# Chạy chương trình
-career_guidance()
+# Chạy hàm chính
+max_tuition = int(input("Nhập giới hạn học phí (số cụ thể, ví dụ: 20000000): "))
+region = input("Khu vực mong muốn (Bắc, Trung, Nam): ").strip()
+career_guidance(max_tuition, region)
