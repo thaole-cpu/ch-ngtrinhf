@@ -1,0 +1,37 @@
+[
+    {
+        "name": "thao",
+        "age": "18",
+        "mbti_type": "EEEE",
+        "score": {
+            "E": 1,
+            "I": 0,
+            "S": 0,
+            "N": 0,
+            "T": 0,
+            "F": 1,
+            "J": 1,
+            "P": 0
+        },
+        "suitable_industries": [],
+        "suitable_majors": [],
+        "filtered_universities": []
+    },
+    {
+        "name": "hung",
+        "age": "24",
+        "mbti_type": "INFP",
+        "careers": [
+            "THIẾT KẾ ",
+            "ÂM NHẠC",
+            "NGHỆ THUẬT",
+            "Công tác xã hội",
+            "Khoa học trái đất",
+            "Địa chất học",
+            "Công nghệ đa phương tiện",
+            "kiến trúc",
+            "xây dựng"
+        ],
+        "schools": []
+    }
+]
