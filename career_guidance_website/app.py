@@ -6,15 +6,15 @@ app = Flask(__name__)
 
 # Hàm tải dữ liệu từ JSON
 def load_data():
-    with open('D:\\nhom1-6\\data1.json', 'r', encoding='utf-8') as f:
+    with open('D:\career_guidance_website\data1.json', 'r', encoding='utf-8') as f:
         career_data = json.load(f)
-    with open('D:\\nhom1-6\\data2.json', 'r', encoding='utf-8') as f:
+    with open('D:\career_guidance_website\data2.json', 'r', encoding='utf-8') as f:
         school_data = json.load(f)
     return career_data, school_data
 
 # Hàm lưu kết quả vào file JSON
 def save_test_results(result):
-    with open('D:\\nhom1-6\\test_results.json', 'a', encoding='utf-8') as f:
+    with open('D:\career_guidance_website\\test_results.json', 'a', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False)
         f.write("\n")
 # Hàm lưu phản hồi vào file JSON
