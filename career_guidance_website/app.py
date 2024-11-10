@@ -17,7 +17,40 @@ def save_test_results(result):
     with open('D:\\nhom1-6\\test_results.json', 'a', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False)
         f.write("\n")
+# Hàm lưu phản hồi vào file JSON
+def save_feedback(name, feedback, rating):
+    feedback_entry = {
+        "name": name,
+        "feedback": feedback,
+        "rating": rating,
+        "date": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    }
+    
+    with open('D:\career_guidance_website\\feedback.json', 'a', encoding='utf-8') as f:
+        json.dump(feedback_entry, f, ensure_ascii=False)
+        f.write("\n")
+# Route hiển thị trang phản hồi
+@app.route('/feedback')
+def feedback():
+    return render_template('feedback.html')
 
+# Route xử lý phản hồi sau khi người dùng gửi
+@app.route('/submit_feedback', methods=['POST'])
+def submit_feedback():
+    name = request.form['name']
+    feedback = request.form['feedback']
+    rating = request.form['rating']
+    
+    # Lưu phản hồi vào file JSON
+    save_feedback(name, feedback, rating)
+    
+    # Chuyển hướng về trang cảm ơn hoặc thông báo đã gửi thành công
+    return redirect(url_for('thank_you'))
+
+# Trang cảm ơn sau khi gửi phản hồi
+@app.route('/thank_you')
+def thank_you():
+    return "<h1>Cảm ơn bạn đã phản hồi!</h1><p>Phản hồi của bạn đã được lưu thành công.</p>"        
 # Các hàm hỗ trợ khác như calculate_mbti, find_careers, find_majors...
 # Hàm xử lý học phí
 def parse_tuition(tuition_str):
