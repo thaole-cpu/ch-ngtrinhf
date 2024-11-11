@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Định Hướng Nghề Nghiệp</title>
+</head>
+<body>
+    <h2>Định Hướng Nghề Nghiệp</h2>
+    <form action="/submit-career-guidance" method="post">
+        <label for="mbti">Nhóm tính cách MBTI:</label>
+        <input type="text" id="mbti" name="mbti" required>
+        <label for="tuition">Học phí tối đa (VNĐ):</label>
+        <input type="number" id="tuition" name="tuition" required>
+        <label for="region">Khu vực mong muốn:</label>
+        <select id="region" name="region">
+            <option value="Miền Bắc">Miền Bắc</option>
+            <option value="Miền Trung">Miền Trung</option>
+            <option value="Miền Nam">Miền Nam</option>
+        </select>
+        <button type="submit">Gửi thông tin</button>
+    </form>
+</body>
+</html>
